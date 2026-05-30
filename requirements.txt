@@ -22,6 +22,7 @@ language-data
 jinja2
 lxml
 motor
+#MegaSDK
 natsort
 par2cmdline-turbo
 pillow
@@ -44,5 +45,4 @@ uvloop==0.21.0
 xattr
 yt-dlp[default,curl-cffi]
 parse-torrent-name
-megaapi
-#mega
+
