@@ -1,3 +1,5 @@
+# This file is a part of Samar-WZML 
+
 asyncio
 aiofiles
 aiohttp
@@ -6,7 +8,6 @@ anytree
 apscheduler
 aioaria2
 aioqbt
-imdbinfo
 cloudscraper
 dnspython
 fastapi
@@ -20,13 +21,15 @@ langcodes
 language-data
 jinja2
 lxml
+motor
 natsort
 par2cmdline-turbo
 pillow
 psutil
 pycountry
 pymongo
-pyrotgfork
+#pyrotgfork
+pyroblack
 python-magic
 pytz
 qbittorrent-api
@@ -34,9 +37,10 @@ requests
 speedtest-cli
 telegraph
 tenacity
-tgcrypto
+tgcrypto-pyrofork
 urllib3
 uvicorn
-uvloop
+uvloop==0.21.0
 xattr
 yt-dlp[default,curl-cffi]
+parse-torrent-name
