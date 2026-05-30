@@ -23,6 +23,7 @@ jinja2
 lxml
 motor
 #MegaSDK
+#mega-sdk-python
 natsort
 par2cmdline-turbo
 pillow
