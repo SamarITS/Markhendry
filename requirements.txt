@@ -1,4 +1,4 @@
-# This file is a part of Samar-WZML 
+# This file is a part of NEO-WZML (github.com/irisXDR/NEO-WZML)
 
 asyncio
 aiofiles
@@ -28,7 +28,6 @@ pillow
 psutil
 pycountry
 pymongo
-#pyrotgfork
 pyroblack
 python-magic
 pytz
@@ -40,6 +39,7 @@ tenacity
 tgcrypto-pyrofork
 urllib3
 uvicorn
+uv
 uvloop==0.21.0
 xattr
 yt-dlp[default,curl-cffi]
